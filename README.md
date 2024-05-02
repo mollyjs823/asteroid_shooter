@@ -1,3 +1,5 @@
+![Screenshot 2024-05-02 074042](https://github.com/mollyjs823/asteroid_shooter/assets/81985750/44cd3d3f-fff2-4a7a-a27f-8777461df4c7)
+
 # Asteroids
 
 Asteroids is a HTML5 canvas-based game that challenges players to navigate through space, avoiding and destroying asteroids. The game blends classic arcade-style gameplay with modern graphics and interactive elements, making it an excellent demonstration of real-time JavaScript game development.
